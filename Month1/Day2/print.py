@@ -1,0 +1,1 @@
+print("Hello there " +input("what's you name ?") + "!")
