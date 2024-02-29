@@ -10,4 +10,4 @@ if year % 4== 0:
     else:
         print("Waaoo, you were born in leap year !!")   
 else:
-    print("Ohhh... the year you born was not the leap year !!")
+    print("Ohhh... the year you born was not the leap year !!") 
